@@ -7,7 +7,6 @@ __pycache__/
 fig*.jpg
 writeup_template.md
 writeup_template.md
-non_vehicles/
 # C extensions
 *.so
 
@@ -29,7 +28,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-
+non_vehicles/
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
