@@ -58,7 +58,7 @@ The final parameters I used are documented below:
 
 ####3. Describe how (and identify where in your code) you trained a classifier using your selected HOG features (and color features if you used them).
 
-I have used only HOG features and didn't use either spatial intensity or channel intensity features. In the section titled "Train Classifier" I trained a linear SVM with the default classifier parameters. The linear SVM Classifier was able to achieve a test accuracy of 98.51%.
+I have used only HOG features and didn't use either spatial intensity or channel intensity features. In the section titled "Train Classifier" I trained a linear SVM with the default classifier parameters. The linear SVM Classifier was able to achieve a test accuracy of 97.94%.
 
 ###Sliding Window Search
 
