@@ -2,7 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.zip
+.DS_Store
+fig*.jpg
+writeup_template.md
 # C extensions
 *.so
 
